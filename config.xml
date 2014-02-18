@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.JackMills.Map"
+        versionCode = "1" 
+        version     = "0.1.0" >
+
+    <name>Map</name>
+
+    <description>
+        A test map on android 
+    </description>
+	
+</widget>
